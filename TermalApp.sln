@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "TermalApp", "TermalApp\TermalApp.jsproj", "{A05268BA-5D87-4C59-B761-DB8994E21EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Android.ActiveCfg = Debug|Android
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Android.Build.0 = Debug|Android
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Android.Deploy.0 = Debug|Android
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|iOS.ActiveCfg = Debug|iOS
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|iOS.Build.0 = Debug|iOS
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|iOS.Deploy.0 = Debug|iOS
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Android.ActiveCfg = Release|Android
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Android.Build.0 = Release|Android
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Android.Deploy.0 = Release|Android
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|iOS.ActiveCfg = Release|iOS
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|iOS.Build.0 = Release|iOS
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|iOS.Deploy.0 = Release|iOS
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{A05268BA-5D87-4C59-B761-DB8994E21EFA}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B527CCC-E2B1-4E66-A837-F656F63DEDFD}
+	EndGlobalSection
+EndGlobal
